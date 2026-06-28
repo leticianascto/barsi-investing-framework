@@ -166,4 +166,5 @@ Este repositório foi criado para cumprir o desafio da DIO, utilizando:
 
 ## 🔗 6. Link do Projeto
 
-*[](https://github.com/leticianascto/barsi-investing-framework)*
+*[Link para o repositório](https://github.com/leticianascto/barsi-investing-framework)*
+
