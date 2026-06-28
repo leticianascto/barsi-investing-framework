@@ -168,3 +168,8 @@ Este repositório foi criado para cumprir o desafio da DIO, utilizando:
 
 *[Link para o repositório](https://github.com/leticianascto/barsi-investing-framework)*
 
+
+© 2026 Leticia Nascimento. Todos os direitos reservados.
+Proibido copiar, reproduzir ou redistribuir sem autorização.
+
+
